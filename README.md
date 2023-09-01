@@ -6,6 +6,7 @@
 
 ## Welcome! 👋
 
+
 Thanks for viewing my project, this is `my another solo project` in my journey to become a `front-end developer.`
 
 #frontendcareerpath #newbiechallenge #scrimba
@@ -82,4 +83,4 @@ Thanks for viewing my project, this is `my another solo project` in my journey t
 
 ## Preview Gif
 
- ![](https://github.com/MrSandeepSharma/Add-to-Cart/blob/main/assets/demo.gif)
+ ![demo](https://github.com/MrSandeepSharma/Add-to-Cart/assets/142038020/016d2389-e6ba-443f-a5f2-3ca575f8103a)
