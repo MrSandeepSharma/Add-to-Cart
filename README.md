@@ -25,7 +25,6 @@ Thanks for viewing my project, this is `my another solo project` in my journey t
     ```
     import { initializeApp } from "https://www.gstatic.com/firebasejs/9.15.0/firebase-app.js";
     import { getDatabase, ref, push, onValue, remove, } from "https://www.gstatic.com/firebasejs/9.15.0/firebase-database.js";
-
     ```
     
   * Create App Setting
@@ -81,4 +80,6 @@ Thanks for viewing my project, this is `my another solo project` in my journey t
     remove(exactLocationDb);
     ```
 
-## Preview Images
+## Preview Gif
+
+ ![](https://github.com/MrSandeepSharma/Add-to-Cart/blob/main/assets/demo.gif)
